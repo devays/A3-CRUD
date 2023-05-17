@@ -1,0 +1,20 @@
+1. Criar as tabelas no seu banco de dado (Tabelas estão dentro do crud2.sql)
+2. Entrar em backend -> db.js -> alterar o USER e PASSWORD
+3. Utilizar o comando que está no outro bloco de notas na parte do SQL SCRIPT
+4. Se tudo estiver correto irá funcionar.
+
+IMPORTANTE
+
+Tenha o node.js instalado na máquina. 
+
+Para executar você irá escrever esses comandos no terminal da sua IDE:
+
+1. cd .\backend\ 
+2. npm start
+
+Abra outro terminal e escreva:
+
+1. cd .\frontend\
+2. npm start
+
+
